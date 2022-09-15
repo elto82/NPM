@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "moment": "^2.29.4",
+    "react": "^18.2.0"
+  },
+  "name": "npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.23.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elto82/NPM.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elto82/NPM/issues"
+  },
+  "homepage": "https://github.com/elto82/NPM#readme",
+  "description": ""
+}
